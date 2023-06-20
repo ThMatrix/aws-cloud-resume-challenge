@@ -23,8 +23,9 @@
         <li><b>DynamoDB:</b> - DynamoDB as a Database service was used to store the data (Viewer count) and update whenever a viewer visits on website </li>
         <li><b> AWS Lambda and API Gatewat:</b> - AWS lambda was used to write the python script which will update the viewer count whenever a visitor open the website, where API Gateway was used to accept requests from the website and communicating with the database and updating it through javascript code </li>
       </ul>
-      <h2> Architecture Diagram: </h2>
-      ![Architecturediagram](https://github.com/gorewaranshul/aws-cloud-resume-challenge/assets/87205043/41fba506-ab43-4947-909a-79f627a8738c)
+      
+#### Architecture Diagram:
+![Architecturediagram](https://github.com/gorewaranshul/aws-cloud-resume-challenge/assets/87205043/0024a240-a02c-49fe-a8fe-ba36ac75946d)
       <h2> Cloud Resume Challenge</h2>
        This website was part of Cloud resume challenge, which asks the users who take challenge to use various AWS services to build a simple Portfolio website through various
         AWS services, which are displayed in the Architecture Diagram above. Link for the website is https://www.anshulgorewar.com
